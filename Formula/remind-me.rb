@@ -1,8 +1,8 @@
 class RemindMe < Formula
-  desc "macOS calendar reminder tool with flexible date parsing"
+  desc "macOS reminder tool with flexible date parsing using Reminders.app"
   homepage "https://github.com/horatio-sans-serif/remind-me"
-  url "https://github.com/horatio-sans-serif/remind-me/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "f9239dd29c14fe00d7efd571e9890a425d50938bd263e3d6c6ed111f67ea4712"
+  url "https://github.com/horatio-sans-serif/remind-me/archive/refs/tags/v2.0.0.tar.gz"
+  sha256 "e8c323b2ff41befc1432df481ac5c06bc6907820fe2059edfab45b0f5ea44553"
   license "MIT"
 
   depends_on "python@3"
